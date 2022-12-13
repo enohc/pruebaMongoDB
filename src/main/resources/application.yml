@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: off
+  data:
+    mongodb:
+      uri: mongodb+srv://prueba:WSfTbre4Jf9RZLbl@cluster0.z8mdteh.mongodb.net/test
+      database: test
